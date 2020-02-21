@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>
+            
+                    Categories on
+                
+            
+            Short Toughts</title>
+        <link>http://short-thoughts.ml/categories/</link>
+        <description>Recent content  in Categories
+            on Short Toughts</description>
+        
+        <lastBuildDate>Fri, 21 Feb 2020 17:22:00 +0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+            <atom:link href="http://short-thoughts.ml/categories/index.xml" rel="self" type="application/rss&#43;xml" />
+        
+    </channel>
+</rss>
+
+

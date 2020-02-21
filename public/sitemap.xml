@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://short-thoughts.ml/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://short-thoughts.ml/posts/round-and-round/</loc>
+  </url>
+  
+  <url>
+    <loc>http://short-thoughts.ml/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>http://short-thoughts.ml/</loc>
+  </url>
+  
+  <url>
+    <loc>http://short-thoughts.ml/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://short-thoughts.ml/posts/surf/</loc>
+  </url>
+  
+</urlset>
