@@ -1,0 +1,7 @@
+baseURL = "https://example.com"
+title = "Notepadium"
+theme = "hugo-notepadium"
+
+[params]
+style = "auto"
+slogan = "100%JavaScript-free"
