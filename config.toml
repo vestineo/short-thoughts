@@ -1,4 +1,4 @@
-baseURL = "http://short-thoughts.ml/"
+baseURL = "http://shortthoughts.ml/"
 languageCode = "en-in"
 title = "Short Thoughts"
 theme = "terminal"
