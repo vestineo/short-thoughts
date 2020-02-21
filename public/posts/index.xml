@@ -1,195 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>
-            
-                    Posts on
-                
-            
-            Short Toughts</title>
-        <link>http://short-thoughts.ml/posts/</link>
-        <description>Recent content  in Posts
-            on Short Toughts</description>
-        
-        <lastBuildDate>Fri, 21 Feb 2020 17:22:00 +0000</lastBuildDate>
-        <generator>Hugo -- gohugo.io</generator>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-            <atom:link href="http://short-thoughts.ml/posts/index.xml" rel="self" type="application/rss&#43;xml" />
-        
-            
-            <item>
-                <title>Kahani</title>
-                <link>http://short-thoughts.ml/posts/round-and-round/</link>
-                
-                
-                <description>&lt;h2 id=&#34;hugo-plus-org&#34;&gt;Hugo + Org&lt;/h2&gt;
-&lt;p&gt;Hello everyone this is Org mode + hugo. Org files work out-of-the-box
-with hugo. But there are some issues with images and other features.
-To resolve this issues you will need a mode called &lt;em&gt;ox-hugo&lt;/em&gt;. Then you
-can easily export org files as hugo&amp;rsquo;s markdown format and it works great.
-Setup is easy and even you can post sub-tree which is great if you want to
-keep everything in one big file.&lt;/p&gt;
-&lt;h3 id=&#34;some-tests&#34;&gt;Some Tests&lt;/h3&gt;
-&lt;h4 id=&#34;list&#34;&gt;List&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;bullet&lt;/li&gt;
-&lt;li&gt;list&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol&gt;
-&lt;li&gt;ordered&lt;/li&gt;
-&lt;li&gt;list&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&#34;format&#34;&gt;Format&lt;/h4&gt;
-&lt;p&gt;&lt;em&gt;italic&lt;/em&gt;
-&lt;strong&gt;bold&lt;/strong&gt;
-&lt;strong&gt;&lt;em&gt;bold-italic&lt;/em&gt;&lt;/strong&gt;
-&lt;a href=&#34;http://google.com&#34;&gt;Link to Google&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;table&#34;&gt;Table&lt;/h4&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;name&lt;/th&gt;
-&lt;th&gt;work&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;vishal&lt;/td&gt;
-&lt;td&gt;job&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;prashant&lt;/td&gt;
-&lt;td&gt;none&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;vinu&lt;/td&gt;
-&lt;td&gt;teaching&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;image&#34;&gt;Image&lt;/h4&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-
-
-
-&lt;figure&gt;
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>http://shortthoughts.ml/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-in</language>
     
-        &lt;img src=&#34;http://short-thoughts.ml/ox-hugo/wall.jpg&#34; alt=&#34;Figure 1: Just a wallpaper&#34;/&gt; &lt;figcaption&gt;
-                
-                &lt;p&gt;
-                    Figure 1: Just a wallpaper
-                    
-                        
-                        &lt;/p&gt;
-                
-            &lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h4 id=&#34;code&#34;&gt;Code&lt;/h4&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;var newly = true;
-console.log(newly);&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-</description>
-                
-                        <author>unknown@fakeEmailToMakeValidatorHappy.com (unknown)</author>
-                
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>http://short-thoughts.ml/posts/round-and-round/</guid>
-                
-            </item>
-        
-            
-            <item>
-                <title>title</title>
-                <link>http://short-thoughts.ml/posts/surf/</link>
-                
-                
-                <description>&lt;h2 id=&#34;main&#34;&gt;Main&lt;/h2&gt;
-&lt;h3 id=&#34;first-post&#34;&gt;First Post&lt;/h3&gt;
-&lt;p&gt;Hello everyone this is Org mode + hugo. Org files work out-of-the-box
-with hugo. But there are some issues with images and other features.
-To resolve this issues you will need a mode called &lt;em&gt;ox-hugo&lt;/em&gt;. Then you
-can easily export org files as hugo&amp;rsquo;s markdown format and it works great.
-Setup is easy and even you can post sub-tree which is great if you want to
-keep everything in one big file.&lt;/p&gt;
-&lt;h4 id=&#34;some-tests&#34;&gt;Some Tests&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;List&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;-   bullet
--   list
-
--   ordered
--   list
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;Format&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;_italic_
-**bold**
-**_bold-italic_**
-[Link to Google](http://google.com)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;Table&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;| name     | work     |
-|----------|----------|
-| vishal   | job      |
-| prashant | none     |
-| vinu     | teaching |
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;Image&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;a id=&amp;quot;org0232530&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
-
-
-
-
-&lt;figure&gt;
+	<atom:link href="http://shortthoughts.ml/posts/index.xml" rel="self" type="application/rss+xml" />
     
-        &lt;img src=&#34;http://short-thoughts.ml/ox-hugo/wall.jpg&#34; alt=&#34;Figure 1: Just a wallpaper&#34;/&gt; &lt;figcaption&gt;
-                
-                &lt;p&gt;
-                    Figure 1: Just a wallpaper
-                    
-                        
-                        &lt;/p&gt;
-                
-            &lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;Code&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;div class=&amp;quot;SRC:&amp;quot;&amp;gt;
-  &amp;lt;div&amp;gt;&amp;lt;/div&amp;gt;
-
-var newly = true;
-console.log(newly);
-
-&amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-                
-                        <author>unknown@fakeEmailToMakeValidatorHappy.com (unknown)</author>
-                
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>http://short-thoughts.ml/posts/surf/</guid>
-                
-            </item>
-        
-    </channel>
+    
+    <item>
+      <title>Kahani</title>
+      <link>http://shortthoughts.ml/posts/round-and-round/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shortthoughts.ml/posts/round-and-round/</guid>
+      <description>Hugo + Org Hello everyone this is Org mode + hugo. Org files work out-of-the-box with hugo. But there are some issues with images and other features. To resolve this issues you will need a mode called ox-hugo. Then you can easily export org files as hugo&amp;rsquo;s markdown format and it works great. Setup is easy and even you can post sub-tree which is great if you want to keep everything in one big file.</description>
+    </item>
+    
+    <item>
+      <title>title</title>
+      <link>http://shortthoughts.ml/posts/surf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shortthoughts.ml/posts/surf/</guid>
+      <description>Main First Post Hello everyone this is Org mode + hugo. Org files work out-of-the-box with hugo. But there are some issues with images and other features. To resolve this issues you will need a mode called ox-hugo. Then you can easily export org files as hugo&amp;rsquo;s markdown format and it works great. Setup is easy and even you can post sub-tree which is great if you want to keep everything in one big file.</description>
+    </item>
+    
+  </channel>
 </rss>
-
-

@@ -1,38 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>
-            
-            
-            Short Toughts</title>
-        <link>http://short-thoughts.ml/</link>
-        <description>Recent content 
-            on Short Toughts</description>
-        
-        <lastBuildDate>Fri, 21 Feb 2020 17:22:00 +0000</lastBuildDate>
-        <generator>Hugo -- gohugo.io</generator>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-            <atom:link href="http://short-thoughts.ml/index.xml" rel="self" type="application/rss&#43;xml" />
-        
-            
-            <item>
-                <title>Posts</title>
-                <link>http://short-thoughts.ml/posts/</link>
-                
-                
-                <description></description>
-                
-                
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>http://short-thoughts.ml/posts/</guid>
-                
-            </item>
-        
-    </channel>
+  <channel>
+    <title>Terminal</title>
+    <link>http://shortthoughts.ml/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-in</language>
+    
+	<atom:link href="http://shortthoughts.ml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kahani</title>
+      <link>http://shortthoughts.ml/posts/round-and-round/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shortthoughts.ml/posts/round-and-round/</guid>
+      <description>Hugo + Org Hello everyone this is Org mode + hugo. Org files work out-of-the-box with hugo. But there are some issues with images and other features. To resolve this issues you will need a mode called ox-hugo. Then you can easily export org files as hugo&amp;rsquo;s markdown format and it works great. Setup is easy and even you can post sub-tree which is great if you want to keep everything in one big file.</description>
+    </item>
+    
+    <item>
+      <title>title</title>
+      <link>http://shortthoughts.ml/posts/surf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shortthoughts.ml/posts/surf/</guid>
+      <description>Main First Post Hello everyone this is Org mode + hugo. Org files work out-of-the-box with hugo. But there are some issues with images and other features. To resolve this issues you will need a mode called ox-hugo. Then you can easily export org files as hugo&amp;rsquo;s markdown format and it works great. Setup is easy and even you can post sub-tree which is great if you want to keep everything in one big file.</description>
+    </item>
+    
+  </channel>
 </rss>
-
-

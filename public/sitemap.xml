@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://short-thoughts.ml/categories/</loc>
+    <loc>http://shortthoughts.ml/categories/</loc>
   </url>
   
   <url>
-    <loc>http://short-thoughts.ml/posts/round-and-round/</loc>
+    <loc>http://shortthoughts.ml/posts/round-and-round/</loc>
   </url>
   
   <url>
-    <loc>http://short-thoughts.ml/posts/</loc>
+    <loc>http://shortthoughts.ml/posts/</loc>
   </url>
   
   <url>
-    <loc>http://short-thoughts.ml/</loc>
+    <loc>http://shortthoughts.ml/tags/</loc>
   </url>
   
   <url>
-    <loc>http://short-thoughts.ml/tags/</loc>
+    <loc>http://shortthoughts.ml/</loc>
   </url>
   
   <url>
-    <loc>http://short-thoughts.ml/posts/surf/</loc>
+    <loc>http://shortthoughts.ml/posts/surf/</loc>
   </url>
   
 </urlset>

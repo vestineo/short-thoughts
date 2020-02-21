@@ -1,21 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>
-            
-                    Tags on
-                
-            
-            Short Toughts</title>
-        <link>http://short-thoughts.ml/tags/</link>
-        <description>Recent content  in Tags
-            on Short Toughts</description>
-        
-        <lastBuildDate>Fri, 21 Feb 2020 17:22:00 +0000</lastBuildDate>
-        <generator>Hugo -- gohugo.io</generator>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-            <atom:link href="http://short-thoughts.ml/tags/index.xml" rel="self" type="application/rss&#43;xml" />
-        
-    </channel>
+  <channel>
+    <title>Tags on Terminal</title>
+    <link>http://shortthoughts.ml/tags/</link>
+    <description>Recent content in Tags on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-in</language>
+    
+	<atom:link href="http://shortthoughts.ml/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
 </rss>
-
-
